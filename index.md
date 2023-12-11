@@ -8,6 +8,6 @@
 ```
 $sudo apt-get update && sudo apt install git
 ```
-- [x] create pull request
-- [x] Edit index.md file
-- [x] commit changes
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
