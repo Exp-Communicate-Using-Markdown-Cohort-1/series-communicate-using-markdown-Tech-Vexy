@@ -5,3 +5,6 @@
 # This is header 5
 # This is header 6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$sudo apt-get update && sudo apt install git
+```
